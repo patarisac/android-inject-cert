@@ -1,4 +1,5 @@
 # android inject cert
+These scripts work on rooted Android emulators/devices, including AVD with or without Magisk. For Magisk-based setups, there are usually better and cleaner alternatives using Magisk modules (like [AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts)). This repository mainly targets rooted & Magisk-less emulators, such as AVD with Google APIs image.
 
 ## Steps
 
